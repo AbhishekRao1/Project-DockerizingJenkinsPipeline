@@ -5,7 +5,7 @@
   <artifactId>dockerize-jenkinspipeline-app</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ockerize-jenkinspipeline-app</name>
+  <name>dockerize-jenkinspipeline-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
